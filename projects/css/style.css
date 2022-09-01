@@ -1,0 +1,67 @@
+header {
+    border-style: solid;
+    height: 75px;
+    position:absolute;
+    width:99%;
+    top: 0px;
+}
+
+#one {
+    border-style: solid;
+    height: 550px;
+    width: 1200px;
+    position:absolute;
+    top:85px;
+
+}
+#two {
+    height: 550px;
+    width:310px;
+    border-style:solid;
+    position:absolute;
+    top:85px;
+    right:0px;
+}
+footer {
+    border-style:solid;
+    height: 50px;
+    position:absolute;
+    top:90%;
+    width: 99%;
+}
+
+#fish {
+    position:absolute;
+    left:50%;
+}
+
+#the {
+    position:absolute;
+    top: 175px;
+    left:40%;
+
+}
+
+#pancakes{
+    position:absolute;
+    top: 1%;
+    left:10%;
+}
+
+#the:hover {
+    color:red;
+    background-color: aliceblue;
+}
+
+#ingredienser {
+    position: absolute;
+    top: 35%;
+    left:35%;
+}
+
+#listaingredienser {
+    position:absolute;
+    top: 40%;
+ font-size: large;
+ 
+}
