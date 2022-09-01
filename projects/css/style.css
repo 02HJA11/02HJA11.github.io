@@ -9,7 +9,7 @@ header {
 #one {
     border-style: solid;
     height: 550px;
-    width: 1200px;
+    width: 900px;
     position:absolute;
     top:85px;
 
@@ -20,19 +20,28 @@ header {
     border-style:solid;
     position:absolute;
     top:85px;
-    right:0px;
+    left: 917px;
+}
+
+#three {
+    height: 550px;
+    width: 290px;
+    border-style:solid;
+    position:absolute;
+    top: 85px;
+    right:2px;
 }
 footer {
     border-style:solid;
     height: 50px;
     position:absolute;
-    top:90%;
+    bottom: 0%;
     width: 99%;
 }
 
 #fish {
     position:absolute;
-    left:50%;
+    left:20%;
 }
 
 #the {
@@ -64,4 +73,14 @@ footer {
     top: 40%;
  font-size: large;
  
+}
+
+body{
+    background-color: blanchedalmond;
+}
+
+#form {
+    position:absolute;
+    right:5%;
+    top: 40%;
 }
